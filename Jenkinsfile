@@ -1,6 +1,6 @@
 @Library('roboshop') _
 
-env.COMPONENT="cart"
+env.COMPONENT="user"
 env.APP_TYPE="nodejs"
 mainCI()
 
